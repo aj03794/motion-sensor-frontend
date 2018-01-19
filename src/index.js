@@ -1,3 +1,4 @@
+// Comment
 import React from 'react';
 import promise from 'redux-promise';
 import ReactDOM from 'react-dom';
